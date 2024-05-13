@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Angular_ASPNETCore_CustomersService": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59201;http://localhost:59202"
+    }
+  }
+}
